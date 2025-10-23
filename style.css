@@ -8,7 +8,7 @@
 body{
     height: 100vh;
     background-color: #000;
-    background-image: url('/xaycNDmeyxpHDrPqU6LmaD.jpg');
+    background-image: url('xaycNDmeyxpHDrPqU6LmaD.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -157,4 +157,5 @@ section#hero{
         left: 2rem;
         width: unset;
     }
+
 }
